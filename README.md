@@ -4,7 +4,7 @@ Welcome to my personal website repository! This repository stores the source cod
 
 ## About Me
 
-I'm [Francisco Crespo], a [Software Engineer] passionate about [coding and tech skills]. On my website, I share information about my background, experience, projects, and how you can reach out to me.
+I'm Francisco Crespo, a Software Engineer passionate about coding and tech skills. On my website, I share information about my background, experience, projects, and how you can reach out to me.
 
 ## Technologies Used
 
