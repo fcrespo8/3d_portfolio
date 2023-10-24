@@ -26,6 +26,6 @@ This repository is primarily for personal use, and I do not accept external cont
 ## Contact
 
 - You can contact me via fcrespo8@hotmail.com 
-- Follow me on [Your Social Media Profiles] to stay in touch and see my updates.
+- Follow me on LinkedIn
 
 Thank you for visiting my personal website!
